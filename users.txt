@@ -1,1 +1,2 @@
 users password
+jose	1234
